@@ -81,6 +81,7 @@ div div {background :#A4CA39; position: relative}
 
 .head:hover{
     transform:rotate(-5deg) translate(-4px, -8px);
+    -webkit-transform: rotate(-5deg) translate(-4px, -8px);
 }
 .l_arm:hover{
     -webkit-transform: rotate(15deg) translate(-14px, 0);
